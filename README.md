@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @NoellaFomum
-- 👀 I’m interested in ..Wed Development and Data Engineering.
+- 👀 I’m interested in ..Wed Development and Cybersecurity.
 - 🌱 I’m currently learning ..Java and Sql.
+- I'm currently taking a course on Cybersecurity at FC Institute in Boston.
 - 💞️ I’m looking to collaborate with Everyone in this field.most especially professionals.
 - 📫 How to reach me ..email: fomumnoella@gmail.com.
 - 😄 Pronouns: .she/her..
