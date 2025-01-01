@@ -4,7 +4,7 @@
   - [Active Directory Home Lab] (https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2> Certifications </h2>
-- [CompTia Security+ SYO-701] (https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [CompTia Security+ SYO-701] (https://www.credly.com/earner/earned/badge/8c2c0a52-9c89-4cca-ba6b-52d52dc9f85f)
 
  <h2>📺 Popular YouTube Videos</h2>
 
